@@ -1,0 +1,3 @@
+a: (show ip ospf) 120.20.3.2
+b: b03 (perche ha costo uguale ma id maggiore perche .30)
+c: (show ip route) 2
