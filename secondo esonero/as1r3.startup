@@ -1,3 +1,0 @@
-ip a add 1.2.0.2/24 dev eth0
-
-systemctl start frr

@@ -1,4 +1,0 @@
-ip a add 2.2.0.3/24 dev eth0
-ip a add 2.5.0.3/24 dev eth1
-
-systemctl start frr
